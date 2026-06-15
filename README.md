@@ -1,13 +1,40 @@
-## Hi there, I am Lutfi 👋
-I am a student with a primary focus on Data Science and Machine Learning
+# Hi there, I'm Lutfi! 👋
 
-### What I am learning
-- Exploratory Data Analysis (EDA) and data Preprocessing.
-- Building and evaluating fundamental machine learning models.
-- Applying Python ecosytem for data centric task
+I am a Data Enthusiast and Computer Science student deeply passionate about **Machine Learning, AI, and Data Science**. I believe that great AI is built on a foundation of clean, well-managed data, which is why I spend most of my time exploring data preprocessing, analysis, and model building.
 
-### Tech Stack
-Python, Pandas, Scikit-learn, Google Colab
+### 🚀 About Me
+- 🎓 **Status:** Undergrad Student majoring in **Computer Science**.
+- 💡 **Core Interest:** Data Preprocessing, Exploratory Data Analysis (EDA), and Predictive Modeling.
+- 🌱 **Learning Goal:** Deepening my knowledge in Deep Learning and MLOps.
+- 💬 **Ask me about:** Why data cleaning takes 80% of an ML engineer's time!
+
+### 🛠️ Tech Stack & Tools
+
+#### 🐍 Languages & Core Tools
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Jupyter" />
+  <img src="https://shields.io" alt="Google Colab" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+#### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Scikit-Learn" />
+  <img src="https://shields.io" alt="PyTorch" />
+</p>
+
+#### 🗄️ Database & Deployment
+<p align="left">
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Streamlit" />
+</p>
+
+### 📫 Let's Connect!
+- 📧 **Email:** [islutfiharyanto@gmail.com](mailto:islutfiharyanto@gmail.com)
+
 <!--
 **lutfiharyanto/lutfiharyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
