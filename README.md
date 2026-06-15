@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I am Lutfi 👋
+I am a student with a primary focus on Data Science and Machine Learning
 
+### What I am learning
+- Exploratory Data Analysis (EDA) and data Preprocessing.
+- Building and evaluating fundamental machine learning models.
+- Applying Python ecosytem for data centric task
+
+### Tech Stack
+Python, Pandas, Scikit-learn, Google Colab
 <!--
 **lutfiharyanto/lutfiharyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
